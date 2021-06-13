@@ -21,8 +21,8 @@
 /* tslint:disable:max-line-length */
 /* tslint:disable:max-file-line-count */
 
-import reviveError = require( '@stdlib/error/reviver' );
-import error2json = require( '@stdlib/error/to-json' );
+import reviveError = require( './../../reviver' );
+import error2json = require( './../../to-json' );
 
 /**
 * Interface describing the `error` namespace.

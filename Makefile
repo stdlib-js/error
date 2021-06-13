@@ -35,12 +35,8 @@ else
 endif
 endif
 
-# Define the `NODE_PATH` environment variable:
-NODE_PATH ?=
-
 # Define the `NODE_ENV` environment variable:
 NODE_ENV ?=
-
 
 # INTERNAL VARIABLES #
 
@@ -118,6 +114,9 @@ this_dir := $(dir $(CURDIR)/$(word $(words $(MAKEFILE_LIST)),$(MAKEFILE_LIST)))
 
 # Remove the trailing slash:
 this_dir := $(patsubst %/,%,$(this_dir))
+
+# Define the `NODE_PATH` environment variable:
+NODE_PATH ?= $(NODE_PATH); $(this_dir)
 
 # Determine root directory:
 ROOT_DIR = $(this_dir)

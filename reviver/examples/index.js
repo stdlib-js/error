@@ -18,7 +18,7 @@
 
 'use strict';
 
-var err2json = require( '@stdlib/error/to-json' );
+var err2json = require( './../../to-json' );
 var reviveError = require( './../lib' );
 
 var err1 = new SyntaxError( 'bad syntax' );
