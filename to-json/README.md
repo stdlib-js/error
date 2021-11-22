@@ -253,7 +253,7 @@ out = toJSON( err );
 
 ## See Also
 
--   [`@stdlib/error/reviver`][@stdlib/error/reviver]: https://github.com/stdlib-js/error/tree/main/reviver`][@stdlib/error/reviver
+-   <span class="package-name">[`@stdlib/error/reviver`][@stdlib/error/reviver]</span><span class="delimiter">: </span><span class="description">revive a JSON-serialized error object.</span>
 
 </section>
 

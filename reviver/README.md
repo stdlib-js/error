@@ -135,7 +135,7 @@ bool = ( err1.stack === err2.stack );
 
 ## See Also
 
--   [`@stdlib/error/to-json`][@stdlib/error/to-json]: https://github.com/stdlib-js/error/tree/main/to-json`][@stdlib/error/to-json
+-   <span class="package-name">[`@stdlib/error/to-json`][@stdlib/error/to-json]</span><span class="delimiter">: </span><span class="description">return a JSON representation of an error object.</span>
 
 </section>
 
