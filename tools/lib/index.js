@@ -1,7 +1,7 @@
 /**
 * @license Apache-2.0
 *
-* Copyright (c) 2018 The Stdlib Authors.
+* Copyright (c) 2022 The Stdlib Authors.
 *
 * Licensed under the Apache License, Version 2.0 (the "License");
 * you may not use this file except in compliance with the License.
@@ -22,10 +22,6 @@
 * When adding modules to the namespace, ensure that they are added in alphabetical order according to module name.
 */
 
-/*
-* The following modules are intentionally not exported: tools
-*/
-
 // MODULES //
 
 var setReadOnly = require( '@stdlib/utils/define-read-only-property' );
@@ -36,29 +32,20 @@ var setReadOnly = require( '@stdlib/utils/define-read-only-property' );
 /**
 * Top-level namespace.
 *
-* @namespace ns
+* @namespace tools
 */
-var ns = {};
+var tools = {};
 
 /**
-* @name reviveError
-* @memberof ns
+* @name formatProdErrorMessage
+* @memberof tools
 * @readonly
 * @type {Function}
-* @see {@link module:@stdlib/error/reviver}
+* @see {@link module:@stdlib/error/tools/fmtprodmsg}
 */
-setReadOnly( ns, 'reviveError', require( './../reviver' ) );
-
-/**
-* @name error2json
-* @memberof ns
-* @readonly
-* @type {Function}
-* @see {@link module:@stdlib/error/to-json}
-*/
-setReadOnly( ns, 'error2json', require( './../to-json' ) );
+setReadOnly( tools, 'formatProdErrorMessage', require( './../../tools/fmtprodmsg' ) );
 
 
 // EXPORTS //
 
-module.exports = ns;
+module.exports = tools;
