@@ -45,6 +45,24 @@ var tools = {};
 */
 setReadOnly( tools, 'formatProdErrorMessage', require( './../../tools/fmtprodmsg' ) );
 
+/**
+* @name id2pkg
+* @memberof tools
+* @readonly
+* @type {Function}
+* @see {@link module:@stdlib/error/tools/id2pkg}
+*/
+setReadOnly( tools, 'id2pkg', require( './../../tools/id2pkg' ) );
+
+/**
+* @name pkg2id
+* @memberof tools
+* @readonly
+* @type {Function}
+* @see {@link module:@stdlib/error/tools/pkg2id}
+*/
+setReadOnly( tools, 'pkg2id', require( './../../tools/pkg2id' ) );
+
 
 // EXPORTS //
 
