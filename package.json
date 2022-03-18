@@ -37,13 +37,13 @@
   },
   "dependencies": {
     "@stdlib/assert": "github:stdlib-js/assert#main",
+    "@stdlib/string": "github:stdlib-js/string#main",
     "@stdlib/utils": "github:stdlib-js/utils#main"
   },
   "devDependencies": {
     "@stdlib/bench": "github:stdlib-js/bench",
     "@stdlib/fs": "github:stdlib-js/fs",
     "@stdlib/process": "github:stdlib-js/process",
-    "@stdlib/string": "github:stdlib-js/string",
     "proxyquire": "^2.0.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
