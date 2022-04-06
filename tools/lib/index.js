@@ -46,13 +46,13 @@ var ns = {};
 setReadOnly( ns, 'database', require( './../../tools/database' ) );
 
 /**
-* @name formatProdErrorMessage
+* @name fmtprodmsg
 * @memberof ns
 * @readonly
 * @type {Function}
 * @see {@link module:@stdlib/error/tools/fmtprodmsg}
 */
-setReadOnly( ns, 'formatProdErrorMessage', require( './../../tools/fmtprodmsg' ) );
+setReadOnly( ns, 'fmtprodmsg', require( './../../tools/fmtprodmsg' ) );
 
 /**
 * @name fmtprodmsgFactory
