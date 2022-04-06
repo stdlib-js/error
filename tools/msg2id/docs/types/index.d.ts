@@ -1,4 +1,4 @@
-/**
+/*
 * @license Apache-2.0
 *
 * Copyright (c) 2022 The Stdlib Authors.
@@ -16,25 +16,21 @@
 * limitations under the License.
 */
 
-'use strict';
+// TypeScript Version: 2.0
 
 /**
-* Format an error message for production.
+* Returns a two-character error identifier corresponding to a provided error message.
 *
-* @module @stdlib/error/tools/fmtprodmsg
+* @param msg - error message
+* @returns two-character error identifier
 *
 * @example
-* var formatProdErrorMessage = require( '@stdlib/error/tools/fmtprodmsg' );
-*
-* var msg = formatProdErrorMessage( '3', 'wrong_type' );
-* // returns <string>
+* var v = msg2id( 'invalid option. `%s` option must be an array. Option: `%s`.' );
+* // returns '8t'
 */
-
-// MAIN //
-
-var formatProdErrorMessage = require( './main.js' );
+declare function msg2id( msg: string ): string | null;
 
 
 // EXPORTS //
 
-module.exports = formatProdErrorMessage;
+export = msg2id;

@@ -18,23 +18,20 @@
 
 'use strict';
 
-/**
-* Format an error message for production.
-*
-* @module @stdlib/error/tools/fmtprodmsg
-*
-* @example
-* var formatProdErrorMessage = require( '@stdlib/error/tools/fmtprodmsg' );
-*
-* var msg = formatProdErrorMessage( '3', 'wrong_type' );
-* // returns <string>
-*/
+var msg2id = require( './../lib' );
 
-// MAIN //
+var list;
+var len;
+var v;
+var i;
 
-var formatProdErrorMessage = require( './main.js' );
+list = [
+	'invalid argument. First argument must be a number and not `NaN`. Value: `%s`.',
+	'invalid argument. First argument must be a positive integer. Value: `%s`.'
+];
+len = list.length;
 
-
-// EXPORTS //
-
-module.exports = formatProdErrorMessage;
+for ( i = 0; i < len; i++ ) {
+	v = list[ i ];
+	console.log( 'msg: "%s". id: "%s".', v, msg2id( v ) );
+}

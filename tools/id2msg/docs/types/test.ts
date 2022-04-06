@@ -16,18 +16,29 @@
 * limitations under the License.
 */
 
-import formatProdErrorMessage = require( './index' );
+import id2msg = require( './index' );
 
 
 // TESTS //
 
-// The function returns an string...
+// The function returns a string or null...
 {
-	formatProdErrorMessage( '1' ); // $ExpectType string
-	formatProdErrorMessage( '3', 'wrong_type' ); // $ExpectType string
+	id2msg( '0H' ); // $ExpectType string | null
 }
 
-// The compiler throws an error if the function is not provided at least one argument...
+// The compiler throws an error if the function is not provided a string...
 {
-	formatProdErrorMessage(); // $ExpectError
+	id2msg( 5 ); // $ExpectError
+	id2msg( true ); // $ExpectError
+	id2msg( false ); // $ExpectError
+	id2msg( null ); // $ExpectError
+	id2msg( undefined ); // $ExpectError
+	id2msg( [] ); // $ExpectError
+	id2msg( {} ); // $ExpectError
+	id2msg( ( x: number ): number => x ); // $ExpectError
+}
+
+// The compiler throws an error if the function is provided an unsupported number of arguments...
+{
+	id2msg( '0H', 'beep' ); // $ExpectError
 }

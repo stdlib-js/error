@@ -19,22 +19,22 @@
 'use strict';
 
 /**
-* Format an error message for production.
+* Return a two-character error identifier corresponding to a provided error message.
 *
-* @module @stdlib/error/tools/fmtprodmsg
+* @module @stdlib/error/tools/msg2id
 *
 * @example
-* var formatProdErrorMessage = require( '@stdlib/error/tools/fmtprodmsg' );
+* var msg2id = require( '@stdlib/error/tools/msg2id' );
 *
-* var msg = formatProdErrorMessage( '3', 'wrong_type' );
-* // returns <string>
+* var v = msg2id( 'invalid option. `%s` option must be an array. Option: `%s`.' );
+* // returns '8t'
 */
 
-// MAIN //
+// MODULES //
 
-var formatProdErrorMessage = require( './main.js' );
+var msg2id = require( './main.js' );
 
 
 // EXPORTS //
 
-module.exports = formatProdErrorMessage;
+module.exports = msg2id;

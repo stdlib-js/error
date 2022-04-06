@@ -18,23 +18,23 @@
 
 'use strict';
 
-/**
-* Format an error message for production.
-*
-* @module @stdlib/error/tools/fmtprodmsg
-*
-* @example
-* var formatProdErrorMessage = require( '@stdlib/error/tools/fmtprodmsg' );
-*
-* var msg = formatProdErrorMessage( '3', 'wrong_type' );
-* // returns <string>
-*/
+var id2msg = require( './../lib' );
 
-// MAIN //
+var list;
+var len;
+var v;
+var i;
 
-var formatProdErrorMessage = require( './main.js' );
+list = [
+	'01',
+	'03',
+	'8t',
+	'0a',
+	'9W'
+];
+len = list.length;
 
-
-// EXPORTS //
-
-module.exports = formatProdErrorMessage;
+for ( i = 0; i < len; i++ ) {
+	v = list[ i ];
+	console.log( 'id: "%s". msg: "%s".', v, id2msg( v ) );
+}

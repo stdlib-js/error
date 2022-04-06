@@ -18,27 +18,42 @@
 
 'use strict';
 
+// MODULES //
+
+var bench = require( '@stdlib/bench' );
+var isString = require( '@stdlib/assert/is-string' ).isPrimitive;
+var pkg = require( './../package.json' ).name;
+var id2msg = require( './../lib' );
+
+
 // MAIN //
 
-/**
-* Formats an error message for production.
-*
-* @private
-* @param {string} code - error code
-* @param {*} ...args - error message arguments
-* @returns {string} formatted error message
-*/
-function formatProdErrorMessage() {
-	var code = arguments[ 0 ];
-	var url = 'https://stdlib.io/docs/api/latest/error-decoder.html?code='+code;
+bench( pkg, function benchmark( b ) {
+	var values;
+	var v;
 	var i;
-	for ( i = 1; i < arguments.length; i++ ) {
-		url += '&arg[]=' + encodeURIComponent( arguments[ i ] );
+
+	values = [
+		'01',
+		'03',
+		'8t',
+		'0a',
+		'9W',
+		'0A',
+		'7Z'
+	];
+
+	b.tic();
+	for ( i = 0; i < b.iterations; i++ ) {
+		v = id2msg( values[ i%values.length ] );
+		if ( typeof v !== 'string' ) {
+			b.fail( 'should return a string' );
+		}
 	}
-	return 'Minified stdlib error code: '+code+'. Visit '+url+' for the full message.';
-}
-
-
-// EXPORTS //
-
-module.exports = formatProdErrorMessage;
+	b.toc();
+	if ( !isString( v ) ) {
+		b.fail( 'should return a string' );
+	}
+	b.pass( 'benchmark finished' );
+	b.end();
+});
