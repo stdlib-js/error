@@ -41,9 +41,9 @@
     "@stdlib/utils": "github:stdlib-js/utils#main"
   },
   "devDependencies": {
-    "@stdlib/bench": "github:stdlib-js/bench",
-    "@stdlib/fs": "github:stdlib-js/fs",
-    "@stdlib/process": "github:stdlib-js/process",
+    "@stdlib/bench": "github:stdlib-js/bench#main",
+    "@stdlib/fs": "github:stdlib-js/fs#main",
+    "@stdlib/process": "github:stdlib-js/process#main",
     "proxyquire": "^2.0.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
@@ -77,7 +77,7 @@
     "ns"
   ],
   "funding": {
-    "type": "patreon",
-    "url": "https://www.patreon.com/athan"
+    "type": "opencollective",
+    "url": "https://opencollective.com/stdlib"
   }
 }
