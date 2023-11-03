@@ -18,8 +18,7 @@
 
 // TypeScript Version: 4.1
 
-/* tslint:disable:max-line-length */
-/* tslint:disable:max-file-line-count */
+/* eslint-disable max-lines */
 
 import reviveError = require( './../../reviver' );
 import error2json = require( './../../to-json' );
