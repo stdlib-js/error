@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-09-16)
+## Unreleased (2024-09-22)
 
 <section class="packages">
 
@@ -20,6 +20,7 @@
 
 ##### Features
 
+-   [`6f2d56d`](https://github.com/stdlib-js/stdlib/commit/6f2d56d0cb97bcc6074fea05d39add107cc8e04a) - update error databases [(#2932)](https://github.com/stdlib-js/stdlib/pull/2932)
 -   [`a12d0f0`](https://github.com/stdlib-js/stdlib/commit/a12d0f070adf20466af159bd8bf15922f19b57ef) - update error databases [(#2899)](https://github.com/stdlib-js/stdlib/pull/2899)
 
 </section>
@@ -42,6 +43,7 @@
 
 ##### Features
 
+-   [`6f2d56d`](https://github.com/stdlib-js/stdlib/commit/6f2d56d0cb97bcc6074fea05d39add107cc8e04a) - update error databases [(#2932)](https://github.com/stdlib-js/stdlib/pull/2932)
 -   [`a12d0f0`](https://github.com/stdlib-js/stdlib/commit/a12d0f070adf20466af159bd8bf15922f19b57ef) - update error databases [(#2899)](https://github.com/stdlib-js/stdlib/pull/2899)
 
 </section>
@@ -64,6 +66,7 @@
 
 ##### Features
 
+-   [`6f2d56d`](https://github.com/stdlib-js/stdlib/commit/6f2d56d0cb97bcc6074fea05d39add107cc8e04a) - update error databases [(#2932)](https://github.com/stdlib-js/stdlib/pull/2932)
 -   [`a12d0f0`](https://github.com/stdlib-js/stdlib/commit/a12d0f070adf20466af159bd8bf15922f19b57ef) - update error databases [(#2899)](https://github.com/stdlib-js/stdlib/pull/2899)
 
 </section>
@@ -84,9 +87,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Philipp Burckhardt
 
 </section>
 
@@ -98,6 +102,7 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 <details>
 
+-   [`6f2d56d`](https://github.com/stdlib-js/stdlib/commit/6f2d56d0cb97bcc6074fea05d39add107cc8e04a) - **feat:** update error databases [(#2932)](https://github.com/stdlib-js/stdlib/pull/2932) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`a12d0f0`](https://github.com/stdlib-js/stdlib/commit/a12d0f070adf20466af159bd8bf15922f19b57ef) - **feat:** update error databases [(#2899)](https://github.com/stdlib-js/stdlib/pull/2899) _(by stdlib-bot, Athan Reines)_
 
 </details>
