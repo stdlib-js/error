@@ -2,6 +2,16 @@
 
 > Package changelog.
 
+<section class="release" id="v0.3.3">
+
+## 0.3.3 (2024-11-05)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.2">
 
 ## 0.3.2 (2024-11-05)
@@ -10,7 +20,7 @@
 
 ### Packages
 
-<section class="package" id="error-tools-unreleased">
+<section class="package" id="error-tools-v0.3.2">
 
 #### [@stdlib/error/tools](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/error/tools)
 
@@ -34,7 +44,7 @@
 
 <!-- /.package -->
 
-<section class="package" id="error-tools-id2pkg-unreleased">
+<section class="package" id="error-tools-id2pkg-v0.3.2">
 
 #### [@stdlib/error/tools/id2pkg](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/error/tools/id2pkg)
 
@@ -58,7 +68,7 @@
 
 <!-- /.package -->
 
-<section class="package" id="error-tools-pkg2id-unreleased">
+<section class="package" id="error-tools-pkg2id-v0.3.2">
 
 #### [@stdlib/error/tools/pkg2id](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/error/tools/pkg2id)
 
