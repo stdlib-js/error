@@ -2,6 +2,114 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-11-24)
+
+<section class="packages">
+
+### Packages
+
+<section class="package" id="error-tools-unreleased">
+
+#### [@stdlib/error/tools](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/error/tools)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`a96eca6`](https://github.com/stdlib-js/stdlib/commit/a96eca6de71e5f1c1e32ab81a2079d8510fcd643) - update error databases [(#3240)](https://github.com/stdlib-js/stdlib/pull/3240)
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="error-tools-id2pkg-unreleased">
+
+#### [@stdlib/error/tools/id2pkg](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/error/tools/id2pkg)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`a96eca6`](https://github.com/stdlib-js/stdlib/commit/a96eca6de71e5f1c1e32ab81a2079d8510fcd643) - update error databases [(#3240)](https://github.com/stdlib-js/stdlib/pull/3240)
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="error-tools-pkg2id-unreleased">
+
+#### [@stdlib/error/tools/pkg2id](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/error/tools/pkg2id)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`a96eca6`](https://github.com/stdlib-js/stdlib/commit/a96eca6de71e5f1c1e32ab81a2079d8510fcd643) - update error databases [(#3240)](https://github.com/stdlib-js/stdlib/pull/3240)
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+</section>
+
+<!-- /.packages -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`a96eca6`](https://github.com/stdlib-js/stdlib/commit/a96eca6de71e5f1c1e32ab81a2079d8510fcd643) - **feat:** update error databases [(#3240)](https://github.com/stdlib-js/stdlib/pull/3240) _(by stdlib-bot, Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.3">
 
 ## 0.3.3 (2024-11-05)
