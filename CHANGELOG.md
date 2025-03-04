@@ -4,11 +4,35 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-02)
+## Unreleased (2025-03-04)
 
 <section class="packages">
 
 ### Packages
+
+<section class="package" id="error-reviver-unreleased">
+
+#### [@stdlib/error/reviver](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/error/reviver)
+
+<details>
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#5526](https://github.com/stdlib-js/stdlib/issues/5526)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
 
 <section class="package" id="error-tools-unreleased">
 
@@ -92,13 +116,27 @@
 
 <!-- /.packages -->
 
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#5526](https://github.com/stdlib-js/stdlib/issues/5526)
+
+</section>
+
+<!-- /.issues -->
+
 <section class="contributors">
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
+-   ditsu
 
 </section>
 
@@ -110,6 +148,7 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 <details>
 
+-   [`a1e8f03`](https://github.com/stdlib-js/stdlib/commit/a1e8f03af0ee470d0783cb840878dc7cde0826c3) - **chore:** fix EditorConfig lint errors [(#5543)](https://github.com/stdlib-js/stdlib/pull/5543) _(by ditsu, Athan Reines, Philipp Burckhardt)_
 -   [`52a3af1`](https://github.com/stdlib-js/stdlib/commit/52a3af15547afcb194741d01f1834e02fe1a2f89) - **feat:** update error databases [(#5720)](https://github.com/stdlib-js/stdlib/pull/5720) _(by stdlib-bot)_
 -   [`a6f782c`](https://github.com/stdlib-js/stdlib/commit/a6f782c129f57a40dc31b36effbf910d3d11007c) - **feat:** update error databases [(#4806)](https://github.com/stdlib-js/stdlib/pull/4806) _(by stdlib-bot)_
 -   [`fb83180`](https://github.com/stdlib-js/stdlib/commit/fb83180244018f56fff48fea8263d915fc8bbf2e) - **feat:** update error databases [(#4705)](https://github.com/stdlib-js/stdlib/pull/4705) _(by stdlib-bot)_
