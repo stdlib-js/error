@@ -4,45 +4,11 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-20)
-
-<section class="packages">
-
-### Packages
-
-<section class="package" id="error-reviver-unreleased">
-
-#### [@stdlib/error/reviver](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/error/reviver)
-
-<details>
-
-<section class="issues">
-
-##### Closed Issues
-
-This release closes the following issue:
-
-[#5526](https://github.com/stdlib-js/stdlib/issues/5526)
-
-</section>
-
-<!-- /.issues -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="error-tools-unreleased">
-
-#### [@stdlib/error/tools](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/error/tools)
-
-<details>
+## Unreleased (2025-04-26)
 
 <section class="features">
 
-##### Features
+### Features
 
 -   [`6b367a1`](https://github.com/stdlib-js/stdlib/commit/6b367a1d53cd697503f8e6705e3dd12b288d7d36) - update error databases [(#6739)](https://github.com/stdlib-js/stdlib/pull/6739)
 -   [`323d3ba`](https://github.com/stdlib-js/stdlib/commit/323d3ba1b01e675a2f98a1872209148155c05853) - update error databases [(#6665)](https://github.com/stdlib-js/stdlib/pull/6665)
@@ -57,76 +23,6 @@ This release closes the following issue:
 </section>
 
 <!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="error-tools-id2pkg-unreleased">
-
-#### [@stdlib/error/tools/id2pkg](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/error/tools/id2pkg)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`6b367a1`](https://github.com/stdlib-js/stdlib/commit/6b367a1d53cd697503f8e6705e3dd12b288d7d36) - update error databases [(#6739)](https://github.com/stdlib-js/stdlib/pull/6739)
--   [`323d3ba`](https://github.com/stdlib-js/stdlib/commit/323d3ba1b01e675a2f98a1872209148155c05853) - update error databases [(#6665)](https://github.com/stdlib-js/stdlib/pull/6665)
--   [`9bcc503`](https://github.com/stdlib-js/stdlib/commit/9bcc5036c822e0ba19b7289a11367293f1a8fd85) - update error databases [(#6575)](https://github.com/stdlib-js/stdlib/pull/6575)
--   [`9002aa4`](https://github.com/stdlib-js/stdlib/commit/9002aa4b67f28ecfdb32dc6d3cb8f6a8034b157b) - update error databases [(#6448)](https://github.com/stdlib-js/stdlib/pull/6448)
--   [`52a3af1`](https://github.com/stdlib-js/stdlib/commit/52a3af15547afcb194741d01f1834e02fe1a2f89) - update error databases [(#5720)](https://github.com/stdlib-js/stdlib/pull/5720)
--   [`a6f782c`](https://github.com/stdlib-js/stdlib/commit/a6f782c129f57a40dc31b36effbf910d3d11007c) - update error databases [(#4806)](https://github.com/stdlib-js/stdlib/pull/4806)
--   [`fb83180`](https://github.com/stdlib-js/stdlib/commit/fb83180244018f56fff48fea8263d915fc8bbf2e) - update error databases [(#4705)](https://github.com/stdlib-js/stdlib/pull/4705)
--   [`bfa8cf1`](https://github.com/stdlib-js/stdlib/commit/bfa8cf1c304b0e3b1ee53cf1bc773fcefdc87e95) - update error databases [(#4544)](https://github.com/stdlib-js/stdlib/pull/4544)
--   [`a96eca6`](https://github.com/stdlib-js/stdlib/commit/a96eca6de71e5f1c1e32ab81a2079d8510fcd643) - update error databases [(#3240)](https://github.com/stdlib-js/stdlib/pull/3240)
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="error-tools-pkg2id-unreleased">
-
-#### [@stdlib/error/tools/pkg2id](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/error/tools/pkg2id)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`6b367a1`](https://github.com/stdlib-js/stdlib/commit/6b367a1d53cd697503f8e6705e3dd12b288d7d36) - update error databases [(#6739)](https://github.com/stdlib-js/stdlib/pull/6739)
--   [`323d3ba`](https://github.com/stdlib-js/stdlib/commit/323d3ba1b01e675a2f98a1872209148155c05853) - update error databases [(#6665)](https://github.com/stdlib-js/stdlib/pull/6665)
--   [`9bcc503`](https://github.com/stdlib-js/stdlib/commit/9bcc5036c822e0ba19b7289a11367293f1a8fd85) - update error databases [(#6575)](https://github.com/stdlib-js/stdlib/pull/6575)
--   [`9002aa4`](https://github.com/stdlib-js/stdlib/commit/9002aa4b67f28ecfdb32dc6d3cb8f6a8034b157b) - update error databases [(#6448)](https://github.com/stdlib-js/stdlib/pull/6448)
--   [`52a3af1`](https://github.com/stdlib-js/stdlib/commit/52a3af15547afcb194741d01f1834e02fe1a2f89) - update error databases [(#5720)](https://github.com/stdlib-js/stdlib/pull/5720)
--   [`a6f782c`](https://github.com/stdlib-js/stdlib/commit/a6f782c129f57a40dc31b36effbf910d3d11007c) - update error databases [(#4806)](https://github.com/stdlib-js/stdlib/pull/4806)
--   [`fb83180`](https://github.com/stdlib-js/stdlib/commit/fb83180244018f56fff48fea8263d915fc8bbf2e) - update error databases [(#4705)](https://github.com/stdlib-js/stdlib/pull/4705)
--   [`bfa8cf1`](https://github.com/stdlib-js/stdlib/commit/bfa8cf1c304b0e3b1ee53cf1bc773fcefdc87e95) - update error databases [(#4544)](https://github.com/stdlib-js/stdlib/pull/4544)
--   [`a96eca6`](https://github.com/stdlib-js/stdlib/commit/a96eca6de71e5f1c1e32ab81a2079d8510fcd643) - update error databases [(#3240)](https://github.com/stdlib-js/stdlib/pull/3240)
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-</section>
-
-<!-- /.packages -->
 
 <section class="issues">
 
@@ -140,26 +36,13 @@ This release closes the following issue:
 
 <!-- /.issues -->
 
-<section class="contributors">
-
-### Contributors
-
-A total of 3 people contributed to this release. Thank you to the following contributors:
-
--   Athan Reines
--   Philipp Burckhardt
--   ditsu
-
-</section>
-
-<!-- /.contributors -->
-
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`ed7e37b`](https://github.com/stdlib-js/stdlib/commit/ed7e37b45d0bbf618fab9be180b53d559ccfd3e2) - **chore:** fix typo _(by Philipp Burckhardt)_
 -   [`6b367a1`](https://github.com/stdlib-js/stdlib/commit/6b367a1d53cd697503f8e6705e3dd12b288d7d36) - **feat:** update error databases [(#6739)](https://github.com/stdlib-js/stdlib/pull/6739) _(by stdlib-bot)_
 -   [`323d3ba`](https://github.com/stdlib-js/stdlib/commit/323d3ba1b01e675a2f98a1872209148155c05853) - **feat:** update error databases [(#6665)](https://github.com/stdlib-js/stdlib/pull/6665) _(by stdlib-bot)_
 -   [`9bcc503`](https://github.com/stdlib-js/stdlib/commit/9bcc5036c822e0ba19b7289a11367293f1a8fd85) - **feat:** update error databases [(#6575)](https://github.com/stdlib-js/stdlib/pull/6575) _(by stdlib-bot)_
@@ -176,6 +59,20 @@ A total of 3 people contributed to this release. Thank you to the following cont
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 3 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Philipp Burckhardt
+-   ditsu
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
@@ -195,19 +92,9 @@ No changes reported for this release.
 
 ## 0.3.2 (2024-11-05)
 
-<section class="packages">
-
-### Packages
-
-<section class="package" id="error-tools-v0.3.2">
-
-#### [@stdlib/error/tools](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/error/tools)
-
-<details>
-
 <section class="features">
 
-##### Features
+### Features
 
 -   [`7b2df66`](https://github.com/stdlib-js/stdlib/commit/7b2df661677463cd9b450e8806c8e2e3c87827f8) - update error databases [(#2963)](https://github.com/stdlib-js/stdlib/pull/2963)
 -   [`6f2d56d`](https://github.com/stdlib-js/stdlib/commit/6f2d56d0cb97bcc6074fea05d39add107cc8e04a) - update error databases [(#2932)](https://github.com/stdlib-js/stdlib/pull/2932)
@@ -216,77 +103,6 @@ No changes reported for this release.
 </section>
 
 <!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="error-tools-id2pkg-v0.3.2">
-
-#### [@stdlib/error/tools/id2pkg](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/error/tools/id2pkg)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`7b2df66`](https://github.com/stdlib-js/stdlib/commit/7b2df661677463cd9b450e8806c8e2e3c87827f8) - update error databases [(#2963)](https://github.com/stdlib-js/stdlib/pull/2963)
--   [`6f2d56d`](https://github.com/stdlib-js/stdlib/commit/6f2d56d0cb97bcc6074fea05d39add107cc8e04a) - update error databases [(#2932)](https://github.com/stdlib-js/stdlib/pull/2932)
--   [`a12d0f0`](https://github.com/stdlib-js/stdlib/commit/a12d0f070adf20466af159bd8bf15922f19b57ef) - update error databases [(#2899)](https://github.com/stdlib-js/stdlib/pull/2899)
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="error-tools-pkg2id-v0.3.2">
-
-#### [@stdlib/error/tools/pkg2id](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/error/tools/pkg2id)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`7b2df66`](https://github.com/stdlib-js/stdlib/commit/7b2df661677463cd9b450e8806c8e2e3c87827f8) - update error databases [(#2963)](https://github.com/stdlib-js/stdlib/pull/2963)
--   [`6f2d56d`](https://github.com/stdlib-js/stdlib/commit/6f2d56d0cb97bcc6074fea05d39add107cc8e04a) - update error databases [(#2932)](https://github.com/stdlib-js/stdlib/pull/2932)
--   [`a12d0f0`](https://github.com/stdlib-js/stdlib/commit/a12d0f070adf20466af159bd8bf15922f19b57ef) - update error databases [(#2899)](https://github.com/stdlib-js/stdlib/pull/2899)
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-</section>
-
-<!-- /.packages -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 2 people contributed to this release. Thank you to the following contributors:
-
--   Athan Reines
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
@@ -306,6 +122,19 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <!-- /.commits -->
 
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
 </section>
 
 <!-- /.release -->
@@ -314,91 +143,15 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 ## 0.3.1 (2024-08-18)
 
-<section class="packages">
-
-### Packages
-
-<section class="package" id="error-tools-v0.3.1">
-
-#### [@stdlib/error/tools](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/error/tools)
-
-<details>
-
 <section class="features">
 
-##### Features
+### Features
 
 -   [`4012d6f`](https://github.com/stdlib-js/stdlib/commit/4012d6fe3bfaacf89b8f0cffb81e7dd43169cb97) - update error databases [(#2806)](https://github.com/stdlib-js/stdlib/pull/2806)
 
 </section>
 
 <!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="error-tools-id2pkg-v0.3.1">
-
-#### [@stdlib/error/tools/id2pkg](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/error/tools/id2pkg)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`4012d6f`](https://github.com/stdlib-js/stdlib/commit/4012d6fe3bfaacf89b8f0cffb81e7dd43169cb97) - update error databases [(#2806)](https://github.com/stdlib-js/stdlib/pull/2806)
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="error-tools-pkg2id-v0.3.1">
-
-#### [@stdlib/error/tools/pkg2id](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/error/tools/pkg2id)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`4012d6f`](https://github.com/stdlib-js/stdlib/commit/4012d6fe3bfaacf89b8f0cffb81e7dd43169cb97) - update error databases [(#2806)](https://github.com/stdlib-js/stdlib/pull/2806)
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-</section>
-
-<!-- /.packages -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
@@ -414,6 +167,18 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 <!-- /.commits -->
 
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
 </section>
 
 <!-- /.release -->
@@ -422,19 +187,9 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 ## 0.3.0 (2024-08-17)
 
-<section class="packages">
-
-### Packages
-
-<section class="package" id="error-tools-v0.3.0">
-
-#### [@stdlib/error/tools](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/error/tools)
-
-<details>
-
 <section class="features">
 
-##### Features
+### Features
 
 -   [`9dc76e1`](https://github.com/stdlib-js/stdlib/commit/9dc76e1c16759494ae185e10b31c0bc88e23e15a) - update error databases [(#2740)](https://github.com/stdlib-js/stdlib/pull/2740)
 -   [`83a88a1`](https://github.com/stdlib-js/stdlib/commit/83a88a1e4925b14283a38dcc81c6f430d14efe1c) - update error databases [(#2685)](https://github.com/stdlib-js/stdlib/pull/2685)
@@ -453,97 +208,6 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 </section>
 
 <!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="error-tools-id2pkg-v0.3.0">
-
-#### [@stdlib/error/tools/id2pkg](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/error/tools/id2pkg)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`9dc76e1`](https://github.com/stdlib-js/stdlib/commit/9dc76e1c16759494ae185e10b31c0bc88e23e15a) - update error databases [(#2740)](https://github.com/stdlib-js/stdlib/pull/2740)
--   [`83a88a1`](https://github.com/stdlib-js/stdlib/commit/83a88a1e4925b14283a38dcc81c6f430d14efe1c) - update error databases [(#2685)](https://github.com/stdlib-js/stdlib/pull/2685)
--   [`6e65448`](https://github.com/stdlib-js/stdlib/commit/6e65448eeca9280a60c1918f72c6cb90eb79b1b1) - update error databases [(#2639)](https://github.com/stdlib-js/stdlib/pull/2639)
--   [`a41081b`](https://github.com/stdlib-js/stdlib/commit/a41081bbf49c4ffcb4d0116749bb98e320a96ee2) - update error databases [(#2595)](https://github.com/stdlib-js/stdlib/pull/2595)
--   [`9044e4d`](https://github.com/stdlib-js/stdlib/commit/9044e4d4b9e390c08ac28195958d2941129a2fe8) - update error databases [(#2529)](https://github.com/stdlib-js/stdlib/pull/2529)
--   [`a0b68ef`](https://github.com/stdlib-js/stdlib/commit/a0b68ef39946d3dba3bbeddf028b10aa9ed28b92) - update error databases [(#2438)](https://github.com/stdlib-js/stdlib/pull/2438)
--   [`7d9bf3e`](https://github.com/stdlib-js/stdlib/commit/7d9bf3e1e3ea42afce52625cc7a7e1a506607828) - update error databases [(#2343)](https://github.com/stdlib-js/stdlib/pull/2343 )
--   [`b13dd89`](https://github.com/stdlib-js/stdlib/commit/b13dd890b893dac7823a42a347e832bad9f151f3) - update error databases [(#2268)](https://github.com/stdlib-js/stdlib/pull/2268)
--   [`bd9abbc`](https://github.com/stdlib-js/stdlib/commit/bd9abbc25f0c7f3d94c672aac74410def7846a76) - update error databases [(#2133)](https://github.com/stdlib-js/stdlib/pull/2133)
--   [`e74c50b`](https://github.com/stdlib-js/stdlib/commit/e74c50baeee21473bab4cef31d7303e59ab17696) - update error databases [(#1461)](https://github.com/stdlib-js/stdlib/pull/1461)
--   [`115711b`](https://github.com/stdlib-js/stdlib/commit/115711beed462231d35989ee01f9efc33870bc1b) - update error databases [(#1376)](https://github.com/stdlib-js/stdlib/pull/1376)
--   [`43af7eb`](https://github.com/stdlib-js/stdlib/commit/43af7eb290aa0262006057f4358cf45e7ba9ec84) - update error databases [(#1319)](https://github.com/stdlib-js/stdlib/pull/1319)
--   [`8349457`](https://github.com/stdlib-js/stdlib/commit/83494579fa8e58bcb3458073141d29d67d0190a3) - update error databases [(#1311)](https://github.com/stdlib-js/stdlib/pull/1311)
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="error-tools-pkg2id-v0.3.0">
-
-#### [@stdlib/error/tools/pkg2id](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/error/tools/pkg2id)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`9dc76e1`](https://github.com/stdlib-js/stdlib/commit/9dc76e1c16759494ae185e10b31c0bc88e23e15a) - update error databases [(#2740)](https://github.com/stdlib-js/stdlib/pull/2740)
--   [`83a88a1`](https://github.com/stdlib-js/stdlib/commit/83a88a1e4925b14283a38dcc81c6f430d14efe1c) - update error databases [(#2685)](https://github.com/stdlib-js/stdlib/pull/2685)
--   [`6e65448`](https://github.com/stdlib-js/stdlib/commit/6e65448eeca9280a60c1918f72c6cb90eb79b1b1) - update error databases [(#2639)](https://github.com/stdlib-js/stdlib/pull/2639)
--   [`a41081b`](https://github.com/stdlib-js/stdlib/commit/a41081bbf49c4ffcb4d0116749bb98e320a96ee2) - update error databases [(#2595)](https://github.com/stdlib-js/stdlib/pull/2595)
--   [`9044e4d`](https://github.com/stdlib-js/stdlib/commit/9044e4d4b9e390c08ac28195958d2941129a2fe8) - update error databases [(#2529)](https://github.com/stdlib-js/stdlib/pull/2529)
--   [`a0b68ef`](https://github.com/stdlib-js/stdlib/commit/a0b68ef39946d3dba3bbeddf028b10aa9ed28b92) - update error databases [(#2438)](https://github.com/stdlib-js/stdlib/pull/2438)
--   [`7d9bf3e`](https://github.com/stdlib-js/stdlib/commit/7d9bf3e1e3ea42afce52625cc7a7e1a506607828) - update error databases [(#2343)](https://github.com/stdlib-js/stdlib/pull/2343 )
--   [`b13dd89`](https://github.com/stdlib-js/stdlib/commit/b13dd890b893dac7823a42a347e832bad9f151f3) - update error databases [(#2268)](https://github.com/stdlib-js/stdlib/pull/2268)
--   [`bd9abbc`](https://github.com/stdlib-js/stdlib/commit/bd9abbc25f0c7f3d94c672aac74410def7846a76) - update error databases [(#2133)](https://github.com/stdlib-js/stdlib/pull/2133)
--   [`e74c50b`](https://github.com/stdlib-js/stdlib/commit/e74c50baeee21473bab4cef31d7303e59ab17696) - update error databases [(#1461)](https://github.com/stdlib-js/stdlib/pull/1461)
--   [`115711b`](https://github.com/stdlib-js/stdlib/commit/115711beed462231d35989ee01f9efc33870bc1b) - update error databases [(#1376)](https://github.com/stdlib-js/stdlib/pull/1376)
--   [`43af7eb`](https://github.com/stdlib-js/stdlib/commit/43af7eb290aa0262006057f4358cf45e7ba9ec84) - update error databases [(#1319)](https://github.com/stdlib-js/stdlib/pull/1319)
--   [`8349457`](https://github.com/stdlib-js/stdlib/commit/83494579fa8e58bcb3458073141d29d67d0190a3) - update error databases [(#1311)](https://github.com/stdlib-js/stdlib/pull/1311)
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-</section>
-
-<!-- /.packages -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 2 people contributed to this release. Thank you to the following contributors:
-
--   Athan Reines
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
@@ -574,6 +238,19 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <!-- /.commits -->
 
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
 </section>
 
 <!-- /.release -->
@@ -592,19 +269,9 @@ No changes reported for this release.
 
 ## 0.2.0 (2024-02-05)
 
-<section class="packages">
-
-### Packages
-
-<section class="package" id="error-tools-v0.2.0">
-
-#### [@stdlib/error/tools](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/error/tools)
-
-<details>
-
 <section class="features">
 
-##### Features
+### Features
 
 -   [`2a3557b`](https://github.com/stdlib-js/stdlib/commit/2a3557b72932bfe1062a468e26b0bf4ce46c96a5) - update error databases [(#1286)](https://github.com/stdlib-js/stdlib/pull/1286)
 -   [`b9d2556`](https://github.com/stdlib-js/stdlib/commit/b9d25560aa64e07a0117285943c15f7981ba2b3d) - update error databases [(#1256)](https://github.com/stdlib-js/stdlib/pull/1256)
@@ -617,84 +284,6 @@ No changes reported for this release.
 </section>
 
 <!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="error-tools-id2pkg-v0.2.0">
-
-#### [@stdlib/error/tools/id2pkg](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/error/tools/id2pkg)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`2a3557b`](https://github.com/stdlib-js/stdlib/commit/2a3557b72932bfe1062a468e26b0bf4ce46c96a5) - update error databases [(#1286)](https://github.com/stdlib-js/stdlib/pull/1286)
--   [`b9d2556`](https://github.com/stdlib-js/stdlib/commit/b9d25560aa64e07a0117285943c15f7981ba2b3d) - update error databases [(#1256)](https://github.com/stdlib-js/stdlib/pull/1256)
--   [`41fe635`](https://github.com/stdlib-js/stdlib/commit/41fe6354e029f681b26c9d30838e4d317cb81a22) - update error databases [(#1242)](https://github.com/stdlib-js/stdlib/pull/1242)
--   [`520acec`](https://github.com/stdlib-js/stdlib/commit/520acecb7b0d18dd0be584afbed4cc3a06fe227d) - update error databases [(#1208)](https://github.com/stdlib-js/stdlib/pull/1208)
--   [`97525c6`](https://github.com/stdlib-js/stdlib/commit/97525c6aa76c340de5d362bcefa1ddb5a362dd44) - update error databases [(#1149)](https://github.com/stdlib-js/stdlib/pull/1149)
--   [`5d698ee`](https://github.com/stdlib-js/stdlib/commit/5d698eecab5459bccc0c28ab7057c42871f25d99) - update error databases [(#1143)](https://github.com/stdlib-js/stdlib/pull/1143)
--   [`6341d50`](https://github.com/stdlib-js/stdlib/commit/6341d50242636bbfa06975ac60ad9cea49730c9d) - update error databases [(#1129)](https://github.com/stdlib-js/stdlib/pull/1129)
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="error-tools-pkg2id-v0.2.0">
-
-#### [@stdlib/error/tools/pkg2id](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/error/tools/pkg2id)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`2a3557b`](https://github.com/stdlib-js/stdlib/commit/2a3557b72932bfe1062a468e26b0bf4ce46c96a5) - update error databases [(#1286)](https://github.com/stdlib-js/stdlib/pull/1286)
--   [`b9d2556`](https://github.com/stdlib-js/stdlib/commit/b9d25560aa64e07a0117285943c15f7981ba2b3d) - update error databases [(#1256)](https://github.com/stdlib-js/stdlib/pull/1256)
--   [`41fe635`](https://github.com/stdlib-js/stdlib/commit/41fe6354e029f681b26c9d30838e4d317cb81a22) - update error databases [(#1242)](https://github.com/stdlib-js/stdlib/pull/1242)
--   [`520acec`](https://github.com/stdlib-js/stdlib/commit/520acecb7b0d18dd0be584afbed4cc3a06fe227d) - update error databases [(#1208)](https://github.com/stdlib-js/stdlib/pull/1208)
--   [`97525c6`](https://github.com/stdlib-js/stdlib/commit/97525c6aa76c340de5d362bcefa1ddb5a362dd44) - update error databases [(#1149)](https://github.com/stdlib-js/stdlib/pull/1149)
--   [`5d698ee`](https://github.com/stdlib-js/stdlib/commit/5d698eecab5459bccc0c28ab7057c42871f25d99) - update error databases [(#1143)](https://github.com/stdlib-js/stdlib/pull/1143)
--   [`6341d50`](https://github.com/stdlib-js/stdlib/commit/6341d50242636bbfa06975ac60ad9cea49730c9d) - update error databases [(#1129)](https://github.com/stdlib-js/stdlib/pull/1129)
-
-</section>
-
-<!-- /.features -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-</section>
-
-<!-- /.packages -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
@@ -719,6 +308,18 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 <!-- /.commits -->
 
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
 </section>
 
 <!-- /.release -->
@@ -737,121 +338,9 @@ No changes reported for this release.
 
 ## 0.1.0 (2023-11-08)
 
-<section class="packages">
-
-### Packages
-
-<section class="package" id="error-v0.1.0">
-
-#### [@stdlib/error](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/error)
-
-<details>
-
 <section class="features">
 
-##### Features
-
--   [`3dec037`](https://github.com/stdlib-js/stdlib/commit/3dec037f6c9097c6778408c877008d7eeee5ad78) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`3dec037`](https://github.com/stdlib-js/stdlib/commit/3dec037f6c9097c6778408c877008d7eeee5ad78): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="error-reviver-v0.1.0">
-
-#### [@stdlib/error/reviver](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/error/reviver)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`3dec037`](https://github.com/stdlib-js/stdlib/commit/3dec037f6c9097c6778408c877008d7eeee5ad78) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`3dec037`](https://github.com/stdlib-js/stdlib/commit/3dec037f6c9097c6778408c877008d7eeee5ad78): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="error-to-json-v0.1.0">
-
-#### [@stdlib/error/to-json](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/error/to-json)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`3dec037`](https://github.com/stdlib-js/stdlib/commit/3dec037f6c9097c6778408c877008d7eeee5ad78) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`3dec037`](https://github.com/stdlib-js/stdlib/commit/3dec037f6c9097c6778408c877008d7eeee5ad78): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="error-tools-v0.1.0">
-
-#### [@stdlib/error/tools](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/error/tools)
-
-<details>
-
-<section class="features">
-
-##### Features
+### Features
 
 -   [`08b3dd9`](https://github.com/stdlib-js/stdlib/commit/08b3dd93e2f04570ecfa5613a38122871940c75f) - update error databases [(#1110)](https://github.com/stdlib-js/stdlib/pull/1110 )
 -   [`79b99b9`](https://github.com/stdlib-js/stdlib/commit/79b99b9f82dbb9eb02f71422d11283043793a746) - update error databases [(#1109)](https://github.com/stdlib-js/stdlib/pull/1109)
@@ -870,297 +359,16 @@ No changes reported for this release.
 
 <section class="bug-fixes">
 
-##### Bug Fixes
+### Bug Fixes
 
+-   [`ff35f38`](https://github.com/stdlib-js/stdlib/commit/ff35f3846e467adce5c8244342a04e2fd4a2ac84) - make CLI scripts executable [(#1111)](https://github.com/stdlib-js/stdlib/pull/1111)
 -   [`4ad35bb`](https://github.com/stdlib-js/stdlib/commit/4ad35bbe7201415fa45c2ca8ce3aacab0e2c8ea3) - refactor build script and newline handling in workflow
 -   [`ad41cd0`](https://github.com/stdlib-js/stdlib/commit/ad41cd08ca9509642c0b5d22ade222d1afec8ea4) - revert error database update
-
-</section>
-
-<!-- /.bug-fixes -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`3dec037`](https://github.com/stdlib-js/stdlib/commit/3dec037f6c9097c6778408c877008d7eeee5ad78): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="error-tools-fmtprodmsg-v0.1.0">
-
-#### [@stdlib/error/tools/fmtprodmsg](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/error/tools/fmtprodmsg)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`3dec037`](https://github.com/stdlib-js/stdlib/commit/3dec037f6c9097c6778408c877008d7eeee5ad78) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`3dec037`](https://github.com/stdlib-js/stdlib/commit/3dec037f6c9097c6778408c877008d7eeee5ad78): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="error-tools-fmtprodmsg-factory-v0.1.0">
-
-#### [@stdlib/error/tools/fmtprodmsg-factory](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/error/tools/fmtprodmsg-factory)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`3dec037`](https://github.com/stdlib-js/stdlib/commit/3dec037f6c9097c6778408c877008d7eeee5ad78) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`3dec037`](https://github.com/stdlib-js/stdlib/commit/3dec037f6c9097c6778408c877008d7eeee5ad78): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="error-tools-id2msg-v0.1.0">
-
-#### [@stdlib/error/tools/id2msg](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/error/tools/id2msg)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`3dec037`](https://github.com/stdlib-js/stdlib/commit/3dec037f6c9097c6778408c877008d7eeee5ad78) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="bug-fixes">
-
-##### Bug Fixes
-
--   [`ff35f38`](https://github.com/stdlib-js/stdlib/commit/ff35f3846e467adce5c8244342a04e2fd4a2ac84) - make CLI scripts executable [(#1111)](https://github.com/stdlib-js/stdlib/pull/1111)
-
-</section>
-
-<!-- /.bug-fixes -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`3dec037`](https://github.com/stdlib-js/stdlib/commit/3dec037f6c9097c6778408c877008d7eeee5ad78): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="error-tools-id2pkg-v0.1.0">
-
-#### [@stdlib/error/tools/id2pkg](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/error/tools/id2pkg)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`08b3dd9`](https://github.com/stdlib-js/stdlib/commit/08b3dd93e2f04570ecfa5613a38122871940c75f) - update error databases [(#1110)](https://github.com/stdlib-js/stdlib/pull/1110 )
--   [`79b99b9`](https://github.com/stdlib-js/stdlib/commit/79b99b9f82dbb9eb02f71422d11283043793a746) - update error databases [(#1109)](https://github.com/stdlib-js/stdlib/pull/1109)
--   [`0dc904b`](https://github.com/stdlib-js/stdlib/commit/0dc904bcd5b306606d0e453da218372859123eb5) - update error databases [(#1108)](https://github.com/stdlib-js/stdlib/pull/1108)
--   [`17e20e3`](https://github.com/stdlib-js/stdlib/commit/17e20e380bb1f59f309203bbfa609b57fd3ea317) - update error databases [(#1106)](https://github.com/stdlib-js/stdlib/pull/1106)
--   [`f3dc3fe`](https://github.com/stdlib-js/stdlib/commit/f3dc3fecfe2c1730edecb363099da4971f9570d1) - update error databases [(#1099)](https://github.com/stdlib-js/stdlib/pull/1099)
--   [`434d4ea`](https://github.com/stdlib-js/stdlib/commit/434d4ea76ddf74953ea55d95bc4ce4db4fbc6274) - update error databases [(#1094)](https://github.com/stdlib-js/stdlib/pull/1094)
--   [`00186a8`](https://github.com/stdlib-js/stdlib/commit/00186a820d1859edca3f5c2e94c241007ae2caac) - update error databases [(#1083)](https://github.com/stdlib-js/stdlib/pull/1083)
--   [`3dec037`](https://github.com/stdlib-js/stdlib/commit/3dec037f6c9097c6778408c877008d7eeee5ad78) - update minimum TypeScript version
--   [`9a90bd6`](https://github.com/stdlib-js/stdlib/commit/9a90bd6382db9ea47d928cc452519ec29f1d5e72) - update error databases [(#1080)](https://github.com/stdlib-js/stdlib/pull/1080)
-
-</section>
-
-<!-- /.features -->
-
-<section class="bug-fixes">
-
-##### Bug Fixes
-
--   [`ff35f38`](https://github.com/stdlib-js/stdlib/commit/ff35f3846e467adce5c8244342a04e2fd4a2ac84) - make CLI scripts executable [(#1111)](https://github.com/stdlib-js/stdlib/pull/1111)
-
-</section>
-
-<!-- /.bug-fixes -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`3dec037`](https://github.com/stdlib-js/stdlib/commit/3dec037f6c9097c6778408c877008d7eeee5ad78): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="error-tools-msg2id-v0.1.0">
-
-#### [@stdlib/error/tools/msg2id](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/error/tools/msg2id)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`3dec037`](https://github.com/stdlib-js/stdlib/commit/3dec037f6c9097c6778408c877008d7eeee5ad78) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="bug-fixes">
-
-##### Bug Fixes
-
--   [`ff35f38`](https://github.com/stdlib-js/stdlib/commit/ff35f3846e467adce5c8244342a04e2fd4a2ac84) - make CLI scripts executable [(#1111)](https://github.com/stdlib-js/stdlib/pull/1111)
 -   [`76096fb`](https://github.com/stdlib-js/stdlib/commit/76096fbdd1f817ace970e463dd6589a812a5bfb2) - gracefully handle multiple ids for same error message
 
 </section>
 
 <!-- /.bug-fixes -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`3dec037`](https://github.com/stdlib-js/stdlib/commit/3dec037f6c9097c6778408c877008d7eeee5ad78): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="error-tools-pkg2id-v0.1.0">
-
-#### [@stdlib/error/tools/pkg2id](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/error/tools/pkg2id)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`08b3dd9`](https://github.com/stdlib-js/stdlib/commit/08b3dd93e2f04570ecfa5613a38122871940c75f) - update error databases [(#1110)](https://github.com/stdlib-js/stdlib/pull/1110 )
--   [`79b99b9`](https://github.com/stdlib-js/stdlib/commit/79b99b9f82dbb9eb02f71422d11283043793a746) - update error databases [(#1109)](https://github.com/stdlib-js/stdlib/pull/1109)
--   [`0dc904b`](https://github.com/stdlib-js/stdlib/commit/0dc904bcd5b306606d0e453da218372859123eb5) - update error databases [(#1108)](https://github.com/stdlib-js/stdlib/pull/1108)
--   [`17e20e3`](https://github.com/stdlib-js/stdlib/commit/17e20e380bb1f59f309203bbfa609b57fd3ea317) - update error databases [(#1106)](https://github.com/stdlib-js/stdlib/pull/1106)
--   [`f3dc3fe`](https://github.com/stdlib-js/stdlib/commit/f3dc3fecfe2c1730edecb363099da4971f9570d1) - update error databases [(#1099)](https://github.com/stdlib-js/stdlib/pull/1099)
--   [`434d4ea`](https://github.com/stdlib-js/stdlib/commit/434d4ea76ddf74953ea55d95bc4ce4db4fbc6274) - update error databases [(#1094)](https://github.com/stdlib-js/stdlib/pull/1094)
--   [`00186a8`](https://github.com/stdlib-js/stdlib/commit/00186a820d1859edca3f5c2e94c241007ae2caac) - update error databases [(#1083)](https://github.com/stdlib-js/stdlib/pull/1083)
--   [`3dec037`](https://github.com/stdlib-js/stdlib/commit/3dec037f6c9097c6778408c877008d7eeee5ad78) - update minimum TypeScript version
--   [`9a90bd6`](https://github.com/stdlib-js/stdlib/commit/9a90bd6382db9ea47d928cc452519ec29f1d5e72) - update error databases [(#1080)](https://github.com/stdlib-js/stdlib/pull/1080)
-
-</section>
-
-<!-- /.features -->
-
-<section class="bug-fixes">
-
-##### Bug Fixes
-
--   [`ff35f38`](https://github.com/stdlib-js/stdlib/commit/ff35f3846e467adce5c8244342a04e2fd4a2ac84) - make CLI scripts executable [(#1111)](https://github.com/stdlib-js/stdlib/pull/1111)
-
-</section>
-
-<!-- /.bug-fixes -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`3dec037`](https://github.com/stdlib-js/stdlib/commit/3dec037f6c9097c6778408c877008d7eeee5ad78): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-</section>
-
-<!-- /.packages -->
 
 <section class="breaking-changes">
 
@@ -1173,19 +381,6 @@ No changes reported for this release.
 </section>
 
 <!-- /.breaking-changes -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 2 people contributed to this release. Thank you to the following contributors:
-
--   Athan Reines
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
@@ -1224,6 +419,19 @@ A total of 2 people contributed to this release. Thank you to the following cont
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
