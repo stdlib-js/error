@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-26)
+## Unreleased (2025-04-29)
 
 <section class="features">
 
 ### Features
 
+-   [`f16d98f`](https://github.com/stdlib-js/stdlib/commit/f16d98fb1e7743711e08c63c2d19f8c1cb8c2551) - update error databases [(#6827)](https://github.com/stdlib-js/stdlib/pull/6827)
 -   [`6b367a1`](https://github.com/stdlib-js/stdlib/commit/6b367a1d53cd697503f8e6705e3dd12b288d7d36) - update error databases [(#6739)](https://github.com/stdlib-js/stdlib/pull/6739)
 -   [`323d3ba`](https://github.com/stdlib-js/stdlib/commit/323d3ba1b01e675a2f98a1872209148155c05853) - update error databases [(#6665)](https://github.com/stdlib-js/stdlib/pull/6665)
 -   [`9bcc503`](https://github.com/stdlib-js/stdlib/commit/9bcc5036c822e0ba19b7289a11367293f1a8fd85) - update error databases [(#6575)](https://github.com/stdlib-js/stdlib/pull/6575)
@@ -42,6 +43,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`f16d98f`](https://github.com/stdlib-js/stdlib/commit/f16d98fb1e7743711e08c63c2d19f8c1cb8c2551) - **feat:** update error databases [(#6827)](https://github.com/stdlib-js/stdlib/pull/6827) _(by stdlib-bot)_
 -   [`ed7e37b`](https://github.com/stdlib-js/stdlib/commit/ed7e37b45d0bbf618fab9be180b53d559ccfd3e2) - **chore:** fix typo _(by Philipp Burckhardt)_
 -   [`6b367a1`](https://github.com/stdlib-js/stdlib/commit/6b367a1d53cd697503f8e6705e3dd12b288d7d36) - **feat:** update error databases [(#6739)](https://github.com/stdlib-js/stdlib/pull/6739) _(by stdlib-bot)_
 -   [`323d3ba`](https://github.com/stdlib-js/stdlib/commit/323d3ba1b01e675a2f98a1872209148155c05853) - **feat:** update error databases [(#6665)](https://github.com/stdlib-js/stdlib/pull/6665) _(by stdlib-bot)_
