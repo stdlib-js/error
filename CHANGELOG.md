@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-27)
+## Unreleased (2025-08-12)
 
 <section class="features">
 
@@ -50,6 +50,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`77867ac`](https://github.com/stdlib-js/stdlib/commit/77867ac1767a186023f633dea30ddf860962aaed) - **docs:** remove trailing whitespace _(by Philipp Burckhardt)_
 -   [`d6ee4e5`](https://github.com/stdlib-js/stdlib/commit/d6ee4e5db0d8c86c57fc7c110ad41c0fdb00b321) - **feat:** update error databases [(#7752)](https://github.com/stdlib-js/stdlib/pull/7752) _(by stdlib-bot)_
 -   [`a337404`](https://github.com/stdlib-js/stdlib/commit/a3374043768674fe57765ead5aa348067b3c4880) - **feat:** update error databases [(#7700)](https://github.com/stdlib-js/stdlib/pull/7700) _(by stdlib-bot, Athan Reines)_
 -   [`1c2c241`](https://github.com/stdlib-js/stdlib/commit/1c2c241591ad0be0cd68cb5a6143c5040f42971d) - **feat:** update error databases [(#7441)](https://github.com/stdlib-js/stdlib/pull/7441) _(by stdlib-bot)_
