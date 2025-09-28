@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-21)
+## Unreleased (2025-09-28)
 
 <section class="features">
 
 ### Features
 
+-   [`5c9fb38`](https://github.com/stdlib-js/stdlib/commit/5c9fb388f6b4a17bda578345251c84c666514ec8) - update error databases [(#8150)](https://github.com/stdlib-js/stdlib/pull/8150)
 -   [`a6cf0cf`](https://github.com/stdlib-js/stdlib/commit/a6cf0cf725f003bbfcd5d24ff2221919338c954e) - update error databases [(#8115)](https://github.com/stdlib-js/stdlib/pull/8115)
 -   [`3cae960`](https://github.com/stdlib-js/stdlib/commit/3cae960432d7d903d0eb37a094db20d5f75f72cf) - update error databases [(#8069)](https://github.com/stdlib-js/stdlib/pull/8069)
 -   [`132f36a`](https://github.com/stdlib-js/stdlib/commit/132f36a977386ab096662902eb7830fe6b140c76) - update error databases [(#7991)](https://github.com/stdlib-js/stdlib/pull/7991)
@@ -54,6 +55,8 @@ This release closes the following issue:
 
 <details>
 
+-   [`5c9fb38`](https://github.com/stdlib-js/stdlib/commit/5c9fb388f6b4a17bda578345251c84c666514ec8) - **feat:** update error databases [(#8150)](https://github.com/stdlib-js/stdlib/pull/8150) _(by stdlib-bot)_
+-   [`14fbe2a`](https://github.com/stdlib-js/stdlib/commit/14fbe2a5ced542c4183b6cae8a5d369462a6023a) - **docs:** clean-up TypeScript declarations example code _(by Philipp Burckhardt)_
 -   [`a6cf0cf`](https://github.com/stdlib-js/stdlib/commit/a6cf0cf725f003bbfcd5d24ff2221919338c954e) - **feat:** update error databases [(#8115)](https://github.com/stdlib-js/stdlib/pull/8115) _(by stdlib-bot)_
 -   [`3cae960`](https://github.com/stdlib-js/stdlib/commit/3cae960432d7d903d0eb37a094db20d5f75f72cf) - **feat:** update error databases [(#8069)](https://github.com/stdlib-js/stdlib/pull/8069) _(by stdlib-bot)_
 -   [`07e8560`](https://github.com/stdlib-js/stdlib/commit/07e85603f66b82d2152fc36127679235a88580d1) - **docs:** fix example code and return annotation values _(by Philipp Burckhardt)_
