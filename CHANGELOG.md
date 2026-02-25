@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-02-23)
+## Unreleased (2026-02-25)
 
 <section class="features">
 
@@ -59,6 +59,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`0ebd0ed`](https://github.com/stdlib-js/stdlib/commit/0ebd0ed2722511ffc2a8a158a387aeb90d915c8f) - **docs:** fix lint errors in README files _(by Philipp Burckhardt)_
 -   [`46c47ec`](https://github.com/stdlib-js/stdlib/commit/46c47ec0c92f9a3608290ef8a6ca5cf0e9258866) - **refactor:** update paths _(by Neeraj Pathak)_
 -   [`ce53fb5`](https://github.com/stdlib-js/stdlib/commit/ce53fb5de8b6c28a1ea088bdc58c3ef24ef5c095) - **feat:** update error databases [(#9033)](https://github.com/stdlib-js/stdlib/pull/9033) _(by stdlib-bot)_
 -   [`316ba7e`](https://github.com/stdlib-js/stdlib/commit/316ba7eee1bd8c423b2ef02d44aa5e084d504244) - **feat:** update error databases [(#8578)](https://github.com/stdlib-js/stdlib/pull/8578) _(by stdlib-bot)_
