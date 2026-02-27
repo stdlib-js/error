@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-02-25)
+## Unreleased (2026-02-27)
 
 <section class="features">
 
@@ -59,6 +59,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`fda918b`](https://github.com/stdlib-js/stdlib/commit/fda918b01397d0a842c3d3fb87a4680122eaa8ff) - **docs:** fix section structure and lint errors in READMEs _(by Philipp Burckhardt)_
 -   [`0ebd0ed`](https://github.com/stdlib-js/stdlib/commit/0ebd0ed2722511ffc2a8a158a387aeb90d915c8f) - **docs:** fix lint errors in README files _(by Philipp Burckhardt)_
 -   [`46c47ec`](https://github.com/stdlib-js/stdlib/commit/46c47ec0c92f9a3608290ef8a6ca5cf0e9258866) - **refactor:** update paths _(by Neeraj Pathak)_
 -   [`ce53fb5`](https://github.com/stdlib-js/stdlib/commit/ce53fb5de8b6c28a1ea088bdc58c3ef24ef5c095) - **feat:** update error databases [(#9033)](https://github.com/stdlib-js/stdlib/pull/9033) _(by stdlib-bot)_
