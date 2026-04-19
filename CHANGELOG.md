@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-16)
+## Unreleased (2026-04-19)
 
 <section class="features">
 
@@ -59,6 +59,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`7ef7dea`](https://github.com/stdlib-js/stdlib/commit/7ef7deae38e41305a780674ab660fb51bd28d03c) - **bench:** refactor to use string interpolation in `error` [(#11616)](https://github.com/stdlib-js/stdlib/pull/11616) _(by Karan Anand)_
 -   [`7431746`](https://github.com/stdlib-js/stdlib/commit/74317460bcffcf3c766dbdf6d5a6c0ef2bd4516d) - **chore:** fix JavaScript lint errors [(#11339)](https://github.com/stdlib-js/stdlib/pull/11339) _(by Bhumika Sudarshani)_
 -   [`fda918b`](https://github.com/stdlib-js/stdlib/commit/fda918b01397d0a842c3d3fb87a4680122eaa8ff) - **docs:** fix section structure and lint errors in READMEs _(by Philipp Burckhardt)_
 -   [`0ebd0ed`](https://github.com/stdlib-js/stdlib/commit/0ebd0ed2722511ffc2a8a158a387aeb90d915c8f) - **docs:** fix lint errors in README files _(by Philipp Burckhardt)_
@@ -109,11 +110,12 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Bhumika Sudarshani
 -   Ditsu S
+-   Karan Anand
 -   Neeraj Pathak
 -   Philipp Burckhardt
 
