@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-02)
+## Unreleased (2026-05-31)
 
 <section class="features">
 
 ### Features
 
+-   [`15f6a2c`](https://github.com/stdlib-js/stdlib/commit/15f6a2c0db4fb35e9b135784659e519e194274c2) - update error databases [(#11304)](https://github.com/stdlib-js/stdlib/pull/11304)
 -   [`ce53fb5`](https://github.com/stdlib-js/stdlib/commit/ce53fb5de8b6c28a1ea088bdc58c3ef24ef5c095) - update error databases [(#9033)](https://github.com/stdlib-js/stdlib/pull/9033)
 -   [`316ba7e`](https://github.com/stdlib-js/stdlib/commit/316ba7eee1bd8c423b2ef02d44aa5e084d504244) - update error databases [(#8578)](https://github.com/stdlib-js/stdlib/pull/8578)
 -   [`a0b1e88`](https://github.com/stdlib-js/stdlib/commit/a0b1e889fb69e6c8f14ea30ca7357bceb985a39c) - update error databases [(#8543)](https://github.com/stdlib-js/stdlib/pull/8543)
@@ -59,6 +60,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`15f6a2c`](https://github.com/stdlib-js/stdlib/commit/15f6a2c0db4fb35e9b135784659e519e194274c2) - **feat:** update error databases [(#11304)](https://github.com/stdlib-js/stdlib/pull/11304) _(by stdlib-bot)_
 -   [`7ef7dea`](https://github.com/stdlib-js/stdlib/commit/7ef7deae38e41305a780674ab660fb51bd28d03c) - **bench:** refactor to use string interpolation in `error` [(#11616)](https://github.com/stdlib-js/stdlib/pull/11616) _(by Karan Anand)_
 -   [`7431746`](https://github.com/stdlib-js/stdlib/commit/74317460bcffcf3c766dbdf6d5a6c0ef2bd4516d) - **chore:** fix JavaScript lint errors [(#11339)](https://github.com/stdlib-js/stdlib/pull/11339) _(by Bhumika Sudarshani)_
 -   [`fda918b`](https://github.com/stdlib-js/stdlib/commit/fda918b01397d0a842c3d3fb87a4680122eaa8ff) - **docs:** fix section structure and lint errors in READMEs _(by Philipp Burckhardt)_
