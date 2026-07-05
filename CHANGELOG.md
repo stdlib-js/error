@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-28)
+## Unreleased (2026-07-05)
 
 <section class="features">
 
 ### Features
 
+-   [`6db1e3f`](https://github.com/stdlib-js/stdlib/commit/6db1e3f8673969bab2bb977f9bc639550a1fda33) - update error databases [(#13274)](https://github.com/stdlib-js/stdlib/pull/13274)
 -   [`0294af8`](https://github.com/stdlib-js/stdlib/commit/0294af89478f9fc7f3fbb5295a73f33a86eef057) - update error databases [(#13174)](https://github.com/stdlib-js/stdlib/pull/13174)
 -   [`f4fc965`](https://github.com/stdlib-js/stdlib/commit/f4fc965572e1e8d52cc25c36d06e7a6ebe725957) - update error databases [(#13006)](https://github.com/stdlib-js/stdlib/pull/13006)
 
@@ -23,6 +24,7 @@
 
 <details>
 
+-   [`6db1e3f`](https://github.com/stdlib-js/stdlib/commit/6db1e3f8673969bab2bb977f9bc639550a1fda33) - **feat:** update error databases [(#13274)](https://github.com/stdlib-js/stdlib/pull/13274) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`0294af8`](https://github.com/stdlib-js/stdlib/commit/0294af89478f9fc7f3fbb5295a73f33a86eef057) - **feat:** update error databases [(#13174)](https://github.com/stdlib-js/stdlib/pull/13174) _(by stdlib-bot)_
 -   [`f4fc965`](https://github.com/stdlib-js/stdlib/commit/f4fc965572e1e8d52cc25c36d06e7a6ebe725957) - **feat:** update error databases [(#13006)](https://github.com/stdlib-js/stdlib/pull/13006) _(by stdlib-bot)_
 
@@ -31,6 +33,18 @@
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
